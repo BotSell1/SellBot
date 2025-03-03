@@ -1,1 +1,1 @@
-web: python PYTHON/Sell_Bot.py
+web: python Sell_Bot.py
